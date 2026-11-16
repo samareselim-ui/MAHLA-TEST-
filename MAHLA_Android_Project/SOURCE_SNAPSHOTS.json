@@ -1,0 +1,13 @@
+{
+  "owner_source": "MAHLA_OWNER_MOBILE(2).html",
+  "client_source": "MAHLA_CLIENT_MOBILE(1).html",
+  "owner_preview_bypass_removed": true,
+  "client_preview_unlock_replaced_with_supabase_auth_and_license_redemption": true,
+  "supabase_project_ref": "gnsyjejhsavjxcrmiupn",
+  "edge_functions": ["redeem-license", "issue-licenses", "verify-access"],
+  "javascript_syntax_checked": true,
+  "github_repository_write_access": "not available during preparation",
+  "apk_built": false,
+  "release_signing_configured": false,
+  "customer_data_cloud_sync_configured": false
+}
